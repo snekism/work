@@ -1,0 +1,18 @@
+#+TITLE: wwww
+#+AUTHOR: snekism
+#+LANGUAGE: fr
+#+EXPORT_FILE_NAME: index.html
+#+HTML_HEAD: <link rel="stylesheet" href="https://unpkg.com/@getbase/base/core.css">
+
+* Tue 02 Feb 2021 02:28:40 PM CET
+
+  - colleagues are sensitive toward boss way to speak
+
+  - good efforts that are badly received hurt
+
+  - contradictory orders with bad attitude hurt
+
+  - people end up delaying work
+   
+  - or stealing
+
