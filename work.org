@@ -2,7 +2,7 @@
 #+AUTHOR: snekism
 #+LANGUAGE: fr
 #+EXPORT_FILE_NAME: index.html
-#+HTML_HEAD: <link rel="stylesheet" href="https://unpkg.com/@getbase/base/core.css">
+#+HTML_HEAD: <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/base-min.css">
 
 * Tue 02 Feb 2021 02:28:40 PM CET
 
